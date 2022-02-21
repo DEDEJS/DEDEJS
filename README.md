@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente Trabalho Com o PHP ...
-
+- 🔭 Skills 
+    HTML5, CSS3, PHP e Javascript
