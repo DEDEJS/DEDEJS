@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o André Aparecido!
+# 👋 Hi, I'm André Aparecido!
 
-Sou um desenvolvedor web back-end apaixonado por tecnologia e aprendizado contínuo. Atualmente, estudo na FMU e estou focado no desenvolvimento de sistemas em **PHP**, com experiência também em **JavaScript**, **HTML**, **CSS** e **SQL Server**.
+I am a backend web developer passionate about technology and continuous learning. I am currently studying at FMU and focused on developing systems in **PHP**, with experience also in **JavaScript**, **HTML**, **CSS**, and **SQL Server**.
 
-Tenho como objetivo construir soluções simples, funcionais e bem organizadas — como o projeto [InfoCar](https://github.com/DEDEJS/InfoCar), que estou desenvolvendo como um sistema de manutenção veicular pessoal, com visão de expandi-lo futuramente.
+My goal is to build simple, functional, and well-organized solutions — like the [InfoCar](https://github.com/DEDEJS/InfoCar) project, which I am developing as a personal vehicle maintenance system, with plans to expand it in the future.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 - 💻 PHP, JavaScript, HTML5, CSS3  
 - 🗄️ SQL Server  
@@ -15,26 +15,26 @@ Tenho como objetivo construir soluções simples, funcionais e bem organizadas �
 
 ---
 
-## 💡 Projeto em destaque
+## 💡 Featured Project
 
-### 🚗 [InfoCar](https://github.com/DEDEJS/InfoCar)
-Sistema pessoal para controle de manutenções de veículos, com histórico por veículo. Projeto em evolução com foco em modularidade para oficinas no futuro.
+### 🚗 [InfoCar](https://github.com/DEDEJS/InfoCar)  
+A personal vehicle maintenance tracking system with history per vehicle. An evolving project focused on modularity for workshops in the future.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 ![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEDEJS&show_icons=true&theme=default&hide_title=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEDEJS&layout=compact)
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-aparecido-0ab990195)  
 
 ---
 
-### ✨ Obrigado por visitar meu perfil!
+### ✨ Thank you for visiting my profile!
 
-Sinta-se à vontade para explorar meus repositórios ou entrar em contato para trocar ideias ou colaborar em projetos.
+Feel free to explore my repositories or get in touch to exchange ideas or collaborate on projects.
