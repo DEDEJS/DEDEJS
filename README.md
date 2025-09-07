@@ -8,7 +8,7 @@ My goal is to build simple, functional, and well-organized solutions — like th
 
 ## 🛠️ Technologies and Tools
 
-- 💻 PHP, JavaScript, HTML5, CSS3  
+- 💻 PHP, JavaScript, PYTHON, HTML5 E CSS3  
 - 🗄️ SQL Server  
 - ⚙️ Git, GitHub, VS Code  
  
