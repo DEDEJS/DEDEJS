@@ -11,7 +11,7 @@ My goal is to build simple, functional, and well-organized solutions — like th
 - 💻 PHP, JavaScript, HTML5, CSS3  
 - 🗄️ SQL Server  
 - ⚙️ Git, GitHub, VS Code  
-- 📦 Composer  
+ 
 
 ---
 
